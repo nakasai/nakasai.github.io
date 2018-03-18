@@ -1,0 +1,42 @@
+header h1{
+    font-size:120%;
+    color:#292F33;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    border:1px solid #313131;
+    border-radius: 5px;
+    letter-spacing: 3px;  
+    font-weight:400;
+}
+.introduce img{
+    float:left;
+    margin: 20px;
+}
+.introduce p{
+    padding-top: 20px;
+    font-weight:400;
+    color:#292F33;
+}
+.pablications h2{
+    background-color:#DDDDDD; 
+    font-size:120%;
+    font-weight:400;
+    color:#292F33;
+}
+.pablications h3{
+    padding-left: 10px;
+    font-size:120%;
+    font-weight:400;
+    color:#292F33;
+}
+.pablications{
+    clear:both;
+    padding-left: 20px;
+    font-weight:400;
+    color:#292F33;
+}
+body{
+    background:#F1F1F1;
+}
